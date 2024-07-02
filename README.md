@@ -1,5 +1,5 @@
 # PGP-Public-KEY-
 
-PGP Public KEY in PPK Files.
+PGP Public KEY in PPK File.
 
 27.
